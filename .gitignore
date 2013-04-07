@@ -1,0 +1,12 @@
+# bootstrop
+app/bootstrop*
+
+# symphony directories
+vendor /*
+*/log/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+
+#configuration files
+app/config/parameters.ini
